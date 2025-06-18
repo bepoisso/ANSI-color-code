@@ -1,7 +1,7 @@
 # ANSI-color-code
 ## Exemple
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/color.png" />
+  <img src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/color.png" />
 </div>
 
 ## Regular Colors
